@@ -1,0 +1,15 @@
+C:\Users\Тимофей\Desktop\ButKemp\work1\bin\Debug\net7.0\work1.exe
+C:\Users\Тимофей\Desktop\ButKemp\work1\bin\Debug\net7.0\work1.deps.json
+C:\Users\Тимофей\Desktop\ButKemp\work1\bin\Debug\net7.0\work1.runtimeconfig.json
+C:\Users\Тимофей\Desktop\ButKemp\work1\bin\Debug\net7.0\work1.dll
+C:\Users\Тимофей\Desktop\ButKemp\work1\bin\Debug\net7.0\work1.pdb
+C:\Users\Тимофей\Desktop\ButKemp\work1\obj\Debug\net7.0\work1.csproj.AssemblyReference.cache
+C:\Users\Тимофей\Desktop\ButKemp\work1\obj\Debug\net7.0\work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимофей\Desktop\ButKemp\work1\obj\Debug\net7.0\work1.AssemblyInfoInputs.cache
+C:\Users\Тимофей\Desktop\ButKemp\work1\obj\Debug\net7.0\work1.AssemblyInfo.cs
+C:\Users\Тимофей\Desktop\ButKemp\work1\obj\Debug\net7.0\work1.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\Desktop\ButKemp\work1\obj\Debug\net7.0\work1.dll
+C:\Users\Тимофей\Desktop\ButKemp\work1\obj\Debug\net7.0\refint\work1.dll
+C:\Users\Тимофей\Desktop\ButKemp\work1\obj\Debug\net7.0\work1.pdb
+C:\Users\Тимофей\Desktop\ButKemp\work1\obj\Debug\net7.0\work1.genruntimeconfig.cache
+C:\Users\Тимофей\Desktop\ButKemp\work1\obj\Debug\net7.0\ref\work1.dll
